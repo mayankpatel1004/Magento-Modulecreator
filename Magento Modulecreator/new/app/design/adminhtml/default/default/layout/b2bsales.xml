@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <b2bsales_adminhtml_b2bsales_index>
+        <reference name="content">
+            <block type="b2bsales/adminhtml_b2bsales" name="b2bsales" />
+        </reference>
+    </b2bsales_adminhtml_b2bsales_index>
+</layout>
